@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbc694a4-39f2-42bd-8c54-b134ab147790" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bsEy1iOBjBu8kzMbD2p7skD3mZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../test_repo" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.cv2">
+    <configuration name="cv2" type="PythonConfigurationType" factoryName="Python">
+      <module name="Object detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\zacky\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cv3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="Object detection" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\zacky\AppData\Local\Programs\Python\Python36\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.cv2" />
+      <item itemvalue="Python.test" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbc694a4-39f2-42bd-8c54-b134ab147790" name="Default Changelist" comment="" />
+      <created>1589412651841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589412651841</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="161" key="#Plugins" timestamp="1596920995968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="161" key="#Plugins/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596920995968" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596927516626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596927516626" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596920818205">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596920818205" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1596927469334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596927469334" />
+    <state x="337" y="193" key="FileChooserDialogImpl" timestamp="1596921961371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="337" y="193" key="FileChooserDialogImpl/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596921961371" />
+    <state width="1899" height="263" key="GridCell.Tab.0.bottom" timestamp="1596926299635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596926299635" />
+    <state width="1899" height="263" key="GridCell.Tab.0.center" timestamp="1596926299635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="263" key="GridCell.Tab.0.center/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596926299635" />
+    <state width="1899" height="263" key="GridCell.Tab.0.left" timestamp="1596926299634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="263" key="GridCell.Tab.0.left/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596926299634" />
+    <state width="1899" height="263" key="GridCell.Tab.0.right" timestamp="1596926299635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="263" key="GridCell.Tab.0.right/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596926299635" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1595555165514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1595555165514" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1595555165514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1595555165514" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1595555165514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1595555165514" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1595555165514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1595555165514" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1589587591820">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1589587591820" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1596927741530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1680.163.1680.1010@0.0.1920.1040" timestamp="1596927741530" />
+  </component>
+</project>
