@@ -3,6 +3,7 @@ import numpy as np
 import os
 import time
 import random
+# created by durzal
 vid = 0
 three = cv2.imread('three.png')
 four = cv2.imread('four.png')
